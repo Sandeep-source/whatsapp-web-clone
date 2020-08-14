@@ -1,0 +1,75 @@
+.txt{
+-fx-border-radius:20px;
+-fx-background-radius:20px;
+-fx-margin:10px;
+-fx-padding:8px;
+-fx-border:null;
+}
+.headimg{
+	-fx-translate-x:10;
+    -fx-translate-y:10;
+}
+.status{
+	-fx-translate-x:120;
+}
+.msg{
+	-fx-translate-x:160;
+}
+.opt{
+	-fx-translate-x:200;
+}
+.listname{
+	
+	-fx-translate-x:50;
+	-fx-translate-y:10;
+	
+	-fx-font-size:15;
+}
+.pro{
+	  -fx-translate-y:10;
+-fx-padding:10px;
+	-fx-border-radius:20px;
+-fx-background-radius:20px;
+
+}
+.lb{
+	-fx-translate-x:70;
+	-fx-translate-y:10;
+	-fx-font-size:15;
+	
+
+
+}
+.txt2{
+	-fx-translate-x:65;
+	-fx-translate-y:10;
+	-fx-border-radius:20px;
+-fx-background-radius:20px;
+-fx-margin:10px;
+-fx-padding:10px;
+}
+.sound{
+	-fx-translate-x:590;
+	
+}
+.search{
+	-fx-translate-x:480;
+
+}
+.link{
+	-fx-translate-x:520;
+}
+.opti{
+	-fx-translate-x:560;
+}
+.my-list .list-cell{
+	-fx-background-color:transparent; 
+	-fx-margin:5px;
+	-fx-text-fill: black;
+
+}
+.my-list .list-cell:selected{
+	-fx-text-fill: #000000;
+	-fx-background-color:#eeeeee; 
+	
+}
